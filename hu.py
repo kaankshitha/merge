@@ -4,6 +4,7 @@ if hun==1:
     print("eat burger")
     print("eat fries")
     print("eat pasta")
+    print("changed")
 else:
     th=int(input("are u sleepy"))
     if th==1:
