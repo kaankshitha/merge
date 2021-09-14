@@ -4,5 +4,6 @@ if hun==1:
     print("eat burger")
     print("eat fries")
     print("eat pasta")
+    print("changed")
 else:
     print("dont eat")
